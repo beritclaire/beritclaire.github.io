@@ -1,0 +1,58 @@
+body {
+    background-color: #F0F8FF;
+				color: white;
+				padding: 20px;
+				font-family: Arial, Verdana, sans-serif;
+                
+}
+h1 {
+    color: #A9A9A9;
+    font-family:BriLliant,sans-serif;
+    font-size:300%;
+    font-style:normal;
+    
+    }
+input:hover {
+				background-color: #ffffff;
+				border: 1px solid #b1e1e4;}
+
+h3,h2 { 
+    background-color: #ffffff;
+    background-color: hsla(40,100%,100%,0.5) ;
+    color:#B0C4DE;
+    text-shadow: 0px 120px 80px #005080;
+    text-indent: 40px;}
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 90%;
+    
+}
+    }
+
+input#submit:hover {
+				color: ;
+				border: 1px solid #a4a4a4;
+				border-top: 2px solid #b2b2b2;
+				background-color: #a0dbc4;
+				background: -webkit-gradient(linear, left top, left bottom, from(#a8cfce), to(#beeae9));
+				background: -moz-linear-gradient(top, #a8cfce, #beeae9);
+				background: -o-linear-gradient(top, #a8cfce, #beeae9);
+				background: -ms-linear-gradient(top, #a8cfce, #beeae9);}
+    
+}
+<br>
+.radio-buttons label {
+                
+				float: none;}
+                 color:#B0C4DE;   
+
+input {
+				padding: 6px 12px 6px 12px;
+				border: 1px solid #665544;
+				color:#B0C4DE;}
+input.submit:hover {
+                background-color: #665544;}
+<form>
+<input type="text" class="text" value="Enter email address..." />
+<input type="submit" class="submit" />
+</form>
+    
