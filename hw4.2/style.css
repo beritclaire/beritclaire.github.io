@@ -4,6 +4,8 @@ body {
 				font-family: Arial, Verdana, sans-serif;
                 
 }
+
+}
 h1 {
     color: darkcyan;
     font-family:BriLliant,sans-serif;
@@ -12,8 +14,8 @@ h1 {
     
     }
 input:hover {
-				background-color: #ffffff;
-				border: 1px solid #b1e1e4;}
+    background-color: #ffffff;
+    border: 1px solid #b1e1e4;}
 
 h2 { 
     border: 3px solid #7ef;
