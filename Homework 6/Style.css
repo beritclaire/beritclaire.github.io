@@ -5,10 +5,10 @@
 
 nav li {
   display: inline;
-  margin-right: 40px;}
+  margin-right: 70px;}
 
 nav ul {
-  margin: 0px;
+  margin: 60px;
   padding: 5px 0px 5px 30px;}
 
 nav li a:hover, nav li a.current {
@@ -27,6 +27,11 @@ h1 {
     font-style:normal;
     
     }
+
+a:hover {
+    color: hotpink;
+}
+
 input:hover {
 				background-color: #eee;
 				border: 1px solid #b1e1e4;}
